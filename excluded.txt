@@ -1,0 +1,9 @@
+node_modules
+.git
+.idea
+.vscode
+tmp
+log
+.DS_Store
+excluded.txt
+sync.sh

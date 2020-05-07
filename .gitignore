@@ -1,0 +1,7 @@
+tmp
+.idea
+sync.sh
+version.txt
+log
+.secrets
+botManager/cert/
